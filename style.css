@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-button{
+.button{
 width: 50;
 height: 50;
 font-size: 25;
@@ -13,7 +13,7 @@ background: #607d8b;
 border: none;
 }
 
-textview{
+.textview{
 width: 217;
 margin: 5;
 font-size: 25;
