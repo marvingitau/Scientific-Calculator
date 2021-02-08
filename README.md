@@ -1,3 +1,3 @@
 # Calculator
-Javascript Caculator
+Javascript Caculator <br/>
 https://devsamuelmwangi.github.io/Scientific-Calculator/
