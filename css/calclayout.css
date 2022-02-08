@@ -128,7 +128,7 @@ background: url('../images/Sprite.png') no-repeat -175px -13px;
 margin-top:0px;
 padding:10px;
 }
-.calc_container {
+/* .calc_container {
     background: none repeat scroll 0 0 #dadada;
     border: 1px solid #aaa;
     border-radius: 5px;
@@ -137,6 +137,18 @@ padding:10px;
     width: 463px;
     border-bottom: 7px solid #999;
     position:relative;
+} */
+
+.calc_container {
+    background: none repeat scroll 0 0 #dadada;
+    border: 1px solid #aaa;
+    border-radius: 1px;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.1) inset;
+    padding: 0px;
+    width: 463px;
+    border-bottom: 7px solid #999;
+    position: relative;
+    margin: 0 auto;
 }
 #keyPad_Help{
    /* position: absolute!important;
